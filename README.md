@@ -1,6 +1,8 @@
 # Estat-sticas-Probabilidades-
 
 
+Não consegui trazer outros trabalhos feito no colab aqui [colab](https://colab.research.google.com/drive/17qkrdacQsO6qaQbXWWqh5Qz1-x2uQIfH?usp=sharing)
+
 
 Introdução à Estatística e Probabilidades 
 Este notebook tem como objetivo apresentar uma análise detalhada de dados utilizando conceitos fundamentais de Estatística, com foco na interpretação e modelagem de dados reais. A Estatística é uma ferramenta essencial para cientistas de dados, pois permite tomar decisões informadas e extrair insights valiosos a partir de conjuntos de dados, independentemente do domínio de aplicação.
