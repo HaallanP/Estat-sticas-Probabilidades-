@@ -7,7 +7,7 @@ Não consegui trazer outros trabalhos feitos no Colab para este espaço. Por iss
 
 #[COLAB](https://colab.research.google.com/drive/141TXkWPVxJyvBk4uMDgtzRqdfa1zqHmd?usp=sharing) - Estatística - Parte 1 (Medida de Tendência Central)
 
-#[COLAB](https://colab.research.google.com/drive/1oWlX7LZgHoLOtv-_Jo02gDllfZpRf2m9?usp=sharing) - Estatística - Parte 2 
+#[COLAB](https://colab.research.google.com/drive/1oWlX7LZgHoLOtv-_Jo02gDllfZpRf2m9?usp=sharing) - Estatística - Parte 2 (Experimentos Binominal)
 
 
 
