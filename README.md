@@ -15,3 +15,4 @@ Não consegui trazer outros trabalhos feitos no Colab para este espaço. Por iss
 
 #[COLAB](https://colab.research.google.com/drive/1c1UPrFsDDQgzKm2GjkXj8QnlDLo6DGaz?usp=sharing) - Estatística - Parte 5 (Amostragem)
 
+#[COLAB](https://colab.research.google.com/drive/13799B-WsrgbuqNBlqA5RtGKCPX68JS1F?usp=sharing) - Estatística - Parte 6 (Estimação)
