@@ -1,4 +1,4 @@
-# Estat-sticas-Probabilidades-
+# Estatísticas & Probabilidades 
 
 
 Não consegui trazer outros trabalhos feitos no Colab para este espaço. Por isso, estarei compartilhando o link para que você possa visualizar o trabalho diretamente.
